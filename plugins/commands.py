@@ -92,12 +92,12 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-            InlineKeyboardButton('🤖 Other Bots', url='https://t.me/subin_works/122'),
+            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/AbinCr'),
+            InlineKeyboardButton('🤖 Other Bots', url='https://t.me/movies_Hubh2'),
         ],
         [
-            InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/subinps'),
-            InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/MusicPlayer'),
+            InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/AbinCr'),
+            InlineKeyboardButton('🧩 Source', url='https://t.me/AbinCr'),
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
